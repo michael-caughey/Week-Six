@@ -165,8 +165,8 @@ From the 10 memos I have translated thus far it seems as though they were used i
 
 With the data from the first 10 documents I counted the number of crimes mentioned as well as the number of other instances mentioned and turned each of these count into an excel chart. This data is a small amount but it would have taken a very long time to translate all of the data into an excel sheet so following the advice of not striving for perfection in sake of time I created I used this small data set to create a graph for the crimes and a seperate chart for the other events mentioned. They are shown below:
 
-![alt-text](crimes-chart.png)
-![alt-text](other-chart.png)
+![alt-text](Crimes-chart.png)
+![alt-text](Other-chart.png)
 
 This is where I will end my research as I feel with the information I have gathered so far is sufficient enough to draw some conclusions against the questions I had in mind when I started with this data set. I also found that I unfortunately wasted some precious time attempting to do something that was not working and shot myself in the foot by not reaching out sooner due to my frustration.
 
