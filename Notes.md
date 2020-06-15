@@ -164,6 +164,19 @@ With the Translation of the OCR document, I am able to read the detail of the le
 
 From the 10 memos I have translated thus far it seems as though they were used in a more casual way than I expected. I have chosen due to time constraints to translate about 20 of the OCR'd documents but I have opened all of them and looked for similar dialect and made some deductions based on that. With more time I would have combed through each document and recorded each thing that happened in the memos. From there I could have created a corpus to read my data and find which incidents were most common in the life of the commandor and what he thought was memo worthy.
 
+With the data from the first 10 documents I counted the number of crimes mentioned as well as the number of other instances mentioned and turned each of these count into an excel chart. This data is a small amount but it would have taken a very long time to translate all of the data into an excel sheet so following the advice of not striving for perfection in sake of time I created I used this small data set to create a graph for the crimes and a seperate chart for the other events mentioned. They are shown below:
+
+![alt-text](crimes-chart.png)
+![alt-text](other-chart.png)
+
 This is where I will end my research as I feel with the information I have gathered so far is sufficient enough to draw some conclusions against the questions I had in mind when I started with this data set. I also found that I unfortunately wasted some precious time attempting to do something that was not working and shot myself in the foot by not reaching out sooner due to my frustration.
 
 Overall I feel as though this research was a success based on the timeline and my goals I laid out for this data.
+
+I chose to use a poster as my means to display my data. I downloaded a poster template from Ugo Sangiorgi, opened it in powerpoint in order to use a prefabricated background image, saved is as a .png and inserted it into inkspace.
+
+Using their multilayer interface I edited the poster and inserted my own charts to create my poster. An image of my poster will be below:
+
+![alt-text](GT-police-Analysis.png)
+
+I will also include the image to open and view as its own image in my repository
