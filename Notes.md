@@ -155,9 +155,8 @@ And now we wait, and wait while R studio does its thing.
 
 Now that I have all of the images OCR'd I am going to copy and paste a few documents into the DeepL app and translate the words that the OCR was able to pick out of the images. This will allow to to track the common words. I am fortunate that I speak pretty good french and it mimickz a lot of the same grammer and a good amount of the word are pretty much the same so I do not have to translate each individual image in order to get the jist of the memo. Having looked at the OCR'd text documents I feel like the process did a fairly good job as the majority of the documents were typed, with most of the documents and most documents in general the OCR has a difficult time when images are scewed in some way or another or when there are images within the text it is processing so I found that in these documents in partcular there were a lot of extra characters that I can only assume are from the marks on the image and the signitures, stamps and insignia included in the memos.
 
-This is an example of what the correspondance looks like versus the OCR text:
+This is an example of what the correspondance looks like as the the OCR'd text:
 
-![alt-text](1294217_1000.jpeg)
 ![alt-text](ocr-txt-img1.png)
 
 With the Translation of the OCR document, I am able to read the detail of the letters. In the first letter for example he speaks casually of him playing ball and visiting the hospital. In my excel sheet I have seperated my columns into date, crime and other. The other catagory I will be putting information in the letter like that above. It is quite interesting that the commander is speaking so casually in memos to headquarters.
